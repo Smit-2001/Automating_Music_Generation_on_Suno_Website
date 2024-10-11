@@ -1,5 +1,5 @@
 First of all, created base url API and used base url for automating music generation and download this generated music. 
-
+```
 import time
 import requests
 
@@ -76,7 +76,7 @@ if __name__ == '__main__':
             break
         # sleep 5s
         time.sleep(5)
-
+```
 
 https://github.com/user-attachments/assets/e2049336-5bbc-4c94-b93c-abb88fb420d0
 
